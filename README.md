@@ -107,4 +107,12 @@ Atualmente trabalho como servidor publico na área de tecnologia e inovações.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </p>
 
+<h1 align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&pause=1000&color=192A78&width=240&lines=At%C3%A9+a+proxima)](https://git.io/typing-svg)
+ 
+</h2>
+
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=192a78&textBg=false&section=footer"/>
