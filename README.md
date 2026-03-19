@@ -51,26 +51,26 @@ Atualmente trabalho como servidor publico na área de tecnologia e inovações.
 ---
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1285766074750734408/1484317853250359448/autumn-pixel-art.gif?ex=69bdca39&is=69bc78b9&hm=13ab16de8db5391b9eafcf3cf331c98d1f413c01480e3603292031a5c0e9de27&" height="200" width="70%"/>
+  <img src="https://cdn.discordapp.com/attachments/1285766074750734408/1484323864312811550/day-night.gif?ex=69bdcfd2&is=69bc7e52&hm=5595c97b663d9075154a2773e3e251b7ba8125c5297753bf8c86254176b69bad&" height="200" width="70%"/>
 </p>
 
 <h1 align="center">Minhas redes</h1>
 
 <p align="center">
 
-<a href="mailto:abelphilipe@live.com">
+<a href="matheusbatistaderezende@gmail.com">
 <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6">
 </a>
 
-<a href="https://www.linkedin.com/in/abelphilippe/">
+<a href="https://www.linkedin.com/in/matheus-rezende-a89356333/">
 <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6">
 </a>
 
-<a href="https://www.instagram.com/com.philips/">
+<a href="https://www.instagram.com/matheusb_rezende/">
 <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=66c1da">
 </a>
 
-<a href="https://discord.com/users/641752259595599892">
+<a href="https://discord.com/users/169493329124261888">
   <img src="https://img.shields.io/badge/Discord%23-000?style=for-the-badge&logo=discord&logoColor=66c1da">
 </a>
 
