@@ -40,7 +40,7 @@ Atualmente trabalho como servidor publico na área de tecnologia e inovações.
 
 <td width="40%" align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1285766074750734408/1484322625881903249/night-vaporwave.gif?ex=69bdceab&is=69bc7d2b&hm=ed951e8d08e8063d06c6357a2e6437545d8e2847c1025dfd71817f3bb4d91864&" height="450" width="100%"/>
+<img src="https://cdn.discordapp.com/attachments/1285766074750734408/1484322625881903249/night-vaporwave.gif?ex=69c26beb&is=69c11a6b&hm=5ade9950c882be49ba8884e9a63fafbb7d84ca54104fe6a0abf4e1a8543bc8bc&" height="450" width="100%"/>
 
 </td>
 
